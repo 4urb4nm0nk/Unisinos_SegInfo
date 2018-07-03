@@ -1,0 +1,16 @@
+idInsumo	nome	valor	unidadeMedida	quantEstoque	quantMinEstoque
+1	Farinha de trigo	2.12	kg	100	100
+2	Farinha de milho	2.47	kg	33.54	30
+3	Farinha integral	3.26	kg	50	50
+4	Polvilho	8.12	kg	26.3	25
+5	Sal	1.96	kg	15	15
+6	Acucar cristal	2.79	kg	35.88	30
+7	Acucar mascavo	3.63	kg	20	20
+8	Leite	2.96	l	40	40
+9	Leite condensado	2.84	un	80	80
+10	Ovo	4.41	dz	20	20
+11	Fermento quimico	18.48	kg	2.51	2.5
+12	Fermento biologico	19.32	kg	3.5	3.5
+13	Manteiga	32.78	kg	5	5
+14	Chocolate granulado	28.47	kg	3.5	3.5
+15	Chocolate em po	41.34	kg	4	4

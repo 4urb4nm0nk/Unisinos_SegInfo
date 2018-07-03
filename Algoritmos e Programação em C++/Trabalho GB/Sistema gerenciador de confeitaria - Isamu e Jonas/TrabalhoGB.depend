@@ -1,0 +1,293 @@
+# depslib dependency file v1.0
+1528938146 source:c:\users\jonas\desktop\trabalhogb\trabalhogb\main.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGB\TrabalhoGB\include\Confeitaria.h"
+	<iostream>
+
+1528938215 c:\users\jonas\desktop\trabalhogb\trabalhogb\include\confeitaria.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+	"C:\Users\jonas\Desktop\TrabalhoGB\TrabalhoGB\include\Produto.h"
+	"C:\Users\jonas\Desktop\TrabalhoGB\TrabalhoGB\include\Insumo.h"
+	"C:\Users\jonas\Desktop\TrabalhoGB\TrabalhoGB\include\Venda.h"
+
+1528937153 c:\users\jonas\desktop\trabalhogb\trabalhogb\include\produto.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+	"C:\Users\jonas\Desktop\TrabalhoGB\TrabalhoGB\include\InsumosProduto.h"
+
+1528937153 c:\users\jonas\desktop\trabalhogb\trabalhogb\include\insumosproduto.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+	"C:\Users\jonas\Desktop\TrabalhoGB\TrabalhoGB\include\Insumo.h"
+
+1528680196 c:\users\jonas\desktop\trabalhogb\trabalhogb\include\insumo.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+
+1528504392 c:\users\jonas\desktop\trabalhogb\trabalhogb\include\venda.h
+
+1528937841 source:c:\users\jonas\desktop\trabalhogb\trabalhogb\src\confeitaria.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGB\TrabalhoGB\include\Confeitaria.h"
+
+1528937153 source:c:\users\jonas\desktop\trabalhogb\trabalhogb\src\insumo.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGB\TrabalhoGB\include\Insumo.h"
+
+1528937153 source:c:\users\jonas\desktop\trabalhogb\trabalhogb\src\venda.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGB\TrabalhoGB\include\Venda.h"
+
+1528937153 source:c:\users\jonas\desktop\trabalhogb\trabalhogb\src\insumosproduto.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGB\TrabalhoGB\include\InsumosProduto.h"
+
+1528937153 source:c:\users\jonas\desktop\trabalhogb\trabalhogb\src\produto.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGB\TrabalhoGB\include\Produto.h"
+
+1529012917 source:c:\users\jonasmelo\desktop\trabalhogb\main.cpp
+	"C:\Users\JonasMelo\Desktop\TrabalhoGB\include\Confeitaria.h"
+	<iostream>
+
+1529012900 source:c:\users\jonasmelo\desktop\trabalhogb\src\confeitaria.cpp
+	"C:\Users\JonasMelo\Desktop\TrabalhoGB\include\Confeitaria.h"
+
+1529009089 source:c:\users\jonasmelo\desktop\trabalhogb\src\insumo.cpp
+	"C:\Users\JonasMelo\Desktop\TrabalhoGB\include\Insumo.h"
+
+1529009089 source:c:\users\jonasmelo\desktop\trabalhogb\src\insumosproduto.cpp
+	"C:\Users\JonasMelo\Desktop\TrabalhoGB\include\InsumosProduto.h"
+
+1529009089 source:c:\users\jonasmelo\desktop\trabalhogb\src\produto.cpp
+	"C:\Users\JonasMelo\Desktop\TrabalhoGB\include\Produto.h"
+
+1529009089 source:c:\users\jonasmelo\desktop\trabalhogb\src\venda.cpp
+	"C:\Users\JonasMelo\Desktop\TrabalhoGB\include\Venda.h"
+
+1529009089 c:\users\jonasmelo\desktop\trabalhogb\include\confeitaria.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+	"Produto.h"
+	"Insumo.h"
+	"Venda.h"
+
+1529009089 c:\users\jonasmelo\desktop\trabalhogb\include\produto.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+	"C:\Users\JonasMelo\Desktop\TrabalhoGB\include\InsumosProduto.h"
+
+1529009089 c:\users\jonasmelo\desktop\trabalhogb\include\insumosproduto.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+	"C:\Users\JonasMelo\Desktop\TrabalhoGB\include\Insumo.h"
+
+1529019120 c:\users\jonasmelo\desktop\trabalhogb\include\insumo.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+
+1529019120 c:\users\jonasmelo\desktop\trabalhogb\include\venda.h
+
+1529013585 source:c:\users\jonas\desktop\trabalhogb 14-06 18-59\main.cpp
+	"C:\Users\JonasMelo\Desktop\TrabalhoGB\include\Confeitaria.h"
+	<iostream>
+
+1529013589 source:c:\users\jonas\desktop\trabalhogb 14-06 18-59\src\confeitaria.cpp
+	"C:\Users\JonasMelo\Desktop\TrabalhoGB\include\Confeitaria.h"
+
+1529013590 source:c:\users\jonas\desktop\trabalhogb 14-06 18-59\src\insumo.cpp
+	"C:\Users\JonasMelo\Desktop\TrabalhoGB\include\Insumo.h"
+
+1529013590 source:c:\users\jonas\desktop\trabalhogb 14-06 18-59\src\insumosproduto.cpp
+	"C:\Users\JonasMelo\Desktop\TrabalhoGB\include\InsumosProduto.h"
+
+1529013590 source:c:\users\jonas\desktop\trabalhogb 14-06 18-59\src\produto.cpp
+	"C:\Users\JonasMelo\Desktop\TrabalhoGB\include\Produto.h"
+
+1529013591 source:c:\users\jonas\desktop\trabalhogb 14-06 18-59\src\venda.cpp
+	"C:\Users\JonasMelo\Desktop\TrabalhoGB\include\Venda.h"
+
+1529183080 source:c:\users\jonas\desktop\trabalhogba\main.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGBa\include\Confeitaria.h"
+	<iostream>
+
+1529176739 c:\users\jonas\desktop\trabalhogba\include\confeitaria.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+	"Produto.h"
+	"Insumo.h"
+	"Venda.h"
+
+1529173570 c:\users\jonas\desktop\trabalhogba\include\produto.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+	"C:\Users\jonas\Desktop\TrabalhoGBa\include\InsumosProduto.h"
+
+1529173570 c:\users\jonas\desktop\trabalhogba\include\insumosproduto.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+	"C:\Users\jonas\Desktop\TrabalhoGBa\include\Insumo.h"
+
+1529013588 c:\users\jonas\desktop\trabalhogba\include\insumo.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+
+1529013589 c:\users\jonas\desktop\trabalhogba\include\venda.h
+
+1529173570 source:c:\users\jonas\desktop\trabalhogba\src\insumo.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGBa\include\Insumo.h"
+
+1529173570 source:c:\users\jonas\desktop\trabalhogba\src\insumosproduto.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGBa\include\InsumosProduto.h"
+
+1529175429 source:c:\users\jonas\desktop\trabalhogba\src\produto.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGBa\include\Produto.h"
+
+1529173651 source:c:\users\jonas\desktop\trabalhogba\src\venda.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGBa\include\Venda.h"
+
+1529183173 source:c:\users\jonas\desktop\trabalhogba\src\confeitaria.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGBa\include\Confeitaria.h"
+
+1529778505 source:c:\users\jonas\desktop\trabalhogbc\src\insumo.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGBc\include\Insumo.h"
+
+1529792020 c:\users\jonas\desktop\trabalhogbc\include\insumo.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+
+1529790701 source:c:\users\jonas\desktop\trabalhogbc\src\confeitaria.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGBc\include\Confeitaria.h"
+
+1529788511 c:\users\jonas\desktop\trabalhogbc\include\confeitaria.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+	<cstdlib>
+	"Produto.h"
+	"Insumo.h"
+
+1528935278 c:\users\jonas\desktop\trabalhogbc\include\produto.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+	"InsumosProduto.h"
+
+1529362214 c:\users\jonas\desktop\trabalhogbc\include\insumosproduto.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+	"C:\Users\jonas\Desktop\TrabalhoGBc\include\Insumo.h"
+
+1529362214 source:c:\users\jonas\desktop\trabalhogbc\src\insumosproduto.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGBc\include\InsumosProduto.h"
+
+1529362224 source:c:\users\jonas\desktop\trabalhogbc\src\produto.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGBc\include\Produto.h"
+
+1529361819 source:c:\users\jonas\desktop\trabalhogbc\src\venda.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGBc\include\Venda.h"
+
+1528504392 c:\users\jonas\desktop\trabalhogbc\include\venda.h
+
+1529791073 source:c:\users\jonas\desktop\trabalhogbc\main.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGBc\include\Confeitaria.h"
+	<iostream>
+
+1530475220 source:c:\users\jonas\desktop\trabalhogbc1\main.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGBc1\include\Confeitaria.h"
+	<iostream>
+
+1530494093 source:c:\users\jonas\desktop\trabalhogbc1\src\confeitaria.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGBc1\include\Confeitaria.h"
+
+1530497100 source:c:\users\jonas\desktop\trabalhogbc1\src\insumo.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGBc1\include\Insumo.h"
+
+1530496514 source:c:\users\jonas\desktop\trabalhogbc1\src\insumosproduto.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGBc1\include\InsumosProduto.h"
+
+1530497173 source:c:\users\jonas\desktop\trabalhogbc1\src\produto.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGBc1\include\Produto.h"
+
+1530470754 source:c:\users\jonas\desktop\trabalhogbc1\src\venda.cpp
+	"C:\Users\jonas\Desktop\TrabalhoGBc1\include\Venda.h"
+
+1530496514 c:\users\jonas\desktop\trabalhogbc1\include\insumo.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+
+1530497134 c:\users\jonas\desktop\trabalhogbc1\include\confeitaria.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+	<cstdlib>
+	"Produto.h"
+	"Insumo.h"
+
+1530497372 c:\users\jonas\desktop\trabalhogbc1\include\produto.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+	"InsumosProduto.h"
+
+1530497100 c:\users\jonas\desktop\trabalhogbc1\include\insumosproduto.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<fstream>
+	"C:\Users\jonas\Desktop\TrabalhoGBc1\include\Insumo.h"
+
+1528504392 c:\users\jonas\desktop\trabalhogbc1\include\venda.h
+
+1530391412 source:c:\users\jonas\desktop\trabalho gb\sistema gerenciador de confeitaria - isamu e jonas\src\venda.cpp
+	"Venda.h"
+

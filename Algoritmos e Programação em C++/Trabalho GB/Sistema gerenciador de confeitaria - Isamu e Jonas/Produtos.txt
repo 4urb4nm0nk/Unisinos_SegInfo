@@ -1,0 +1,7 @@
+idProduto	nome	valor	unidadeMedida	quantEstoque	quantMinEstoque
+1	Pao branco	4.5	un500g	25	25
+2	Pao de milho	4	un300g	10	10
+3	Pao integral	5.3	un300g	10	10
+4	Bolo neutro	8.7	un800g	5	5
+5	Bolo de chocolate	9.5	un800g	10	10
+6	Rosca de polvilho	3.8	un250g	5	5
