@@ -1,0 +1,3 @@
+[] Criar modo gráfico para programa do GB
+[] Se digitar ID ou nome do produto tem que retornar que não existe
+[] Indicar quantidade de produtos possíveis para produzir com quant estoque atual
