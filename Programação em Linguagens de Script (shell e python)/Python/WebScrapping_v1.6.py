@@ -14,7 +14,7 @@ import re
 # FUNÇÕES
 def filtrarNumeros(conteudoPagina):
 	# FILTRA NÚMEROS ENCONTRADOS NÁ PÁGINA PARA REMOVER OS LIXOS
-	numerosEncontrados = re.findall(r"[\'\+\(]?\d+[\(\d\)\ \-]*[\d\']+", conteudoPagina)
+	numerosEncontrados = re.findall(r"[\'\+\(]?\d+[\(\d\)\ \- \.]*[\d\']+", conteudoPagina)
 	numerosValidos = []
 
 	for d in numerosEncontrados:
@@ -52,7 +52,7 @@ numeros = set()
 paginaInicial = str(input("Digite a página que será varrida em busca de emails e telefones: "))
 
 if 'http://' not in paginaInicial and 'https://' not in paginaInicial:
-	paginaInicial = 'https://' + paginaInicial
+	paginaInicial = 'http://' + paginaInicial
 
 urlBase = extraiBase(paginaInicial)
 print("URL BASE: ", urlBase)
