@@ -110,8 +110,6 @@ while len(new_urls):
 		elif not link.startswith('http'):
 			link = path + link
 		# ADICIONA A NOVA URL PARA A FILA SE A MESMA AINDA NÃO FOI PROCESSADA E SE PERTENCE A URL BASE
-		if not link in new_urls and not link in urlProcessadas and urlBase in link:
-			if 'mailto' not in link:
-				if '@' not in link:
-					if 'javascript' not in link:
-						new_urls.append(link)
+		if link not in new_urls and link not in urlProcessadas and urlBase in link:
+			if 'mailto' not in link and '@' not in link and 'javascript' not in link:
+				new_urls.append(link)
